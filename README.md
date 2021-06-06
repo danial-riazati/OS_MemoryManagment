@@ -1,2 +1,2 @@
 # OS_MemoryManagment
-Project summery is in .pdf file
+Project summary is in .pdf file
